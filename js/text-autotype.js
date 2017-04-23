@@ -1,6 +1,6 @@
 var i = 1;
 var j= -1;
-var list = ['Programmer.Developer.Hacker.Learner'];
+var list = ['ML.Hacker'];
 var a=list[0];
 var len = list.length;
 var num = 0;
