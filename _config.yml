@@ -1,0 +1,19 @@
+# Site settings
+title: A blog about lorem ipsum dolor sit amet
+description: A blog about lorem ipsum dolor sit amet
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Prabhant Singh
+user_description: I make data driven web apps
+user_title: Data Scientist + Web Deveoper
+email: prabhantsingh@gmail.com
+twitter_username: prabhantsingh
+github_username:  prabhant
+gplus_username:  prabhant
+
+# Google-analytics
+
+
+exclude: ['package.json', 'src' , 'node_modules']
